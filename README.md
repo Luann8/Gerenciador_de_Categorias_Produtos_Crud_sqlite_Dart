@@ -26,30 +26,28 @@ Antes de começar, certifique-se de que possui as seguintes ferramentas instalad
 
 ## Configuração do Ambiente
 
-1. **Clone o Repositório**
-
-   Clone este repositório em sua máquina:
-   ```bash
-   git clone https://github.com/Luann8/test2.git
-   cd test2
-
-```bash
-Instale as Dependências
+1. **Instale as Dependências**
 
 Use o comando abaixo para instalar as dependências do projeto:
 
 ```
 ```bash
 flutter pub get
-Inicie o Emulador ou Conecte um Dispositivo
 
-Certifique-se de que um dispositivo Android ou iOS esteja conectado e configurado ou que um emulador esteja em execução.
+```
+**Inicie o Emulador ou Conecte um Dispositivo**
+
+Certifique-se de que um dispositivo Android e esteja conectado e configurado ou que um emulador esteja em execução.
+ 
+
+
+**Execute o Projeto**
 ```
 
-
-Execute o Projeto
-
+```bash
+```
 Para rodar o projeto, use o seguinte comando:
+```
 ```bash
 flutter run
 ```
