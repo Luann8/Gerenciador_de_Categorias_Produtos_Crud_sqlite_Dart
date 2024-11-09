@@ -42,12 +42,10 @@ Certifique-se de que um dispositivo Android e esteja conectado e configurado ou 
 
 
 **Execute o Projeto**
-```
 
-```bash
-```
+
 Para rodar o projeto, use o seguinte comando:
-```
+
 ```bash
 flutter run
 ```
