@@ -30,7 +30,6 @@ Antes de começar, certifique-se de que possui as seguintes ferramentas instalad
 
 Use o comando abaixo para instalar as dependências do projeto:
 
-```
 ```bash
 flutter pub get
 
