@@ -1,4 +1,4 @@
-# Test2 - Gerenciador de Categorias e Produtos
+#Gerenciador de Categorias e Produtos
 
 Este é um projeto Flutter que implementa um CRUD (Create, Read, Update, Delete) para gerenciar **Categorias** e **Produtos** com relacionamento usando o SQLite como banco de dados local.
 
