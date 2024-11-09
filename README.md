@@ -48,3 +48,4 @@ Para rodar o projeto, use o seguinte comando:
 ```bash
 flutter run
 ```
+[https://github.com/Luann8/test2/blob/main/Captura%20de%20tela%202024-11-09%20041242.png](https://github.com/Luann8/test2/blob/main/Captura%20de%20tela%202024-11-09%20041242.png)
