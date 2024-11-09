@@ -20,9 +20,8 @@ A interface do aplicativo é intuitiva e permite fácil navegação entre as se�
 
 Antes de começar, certifique-se de que possui as seguintes ferramentas instaladas:
 
-- [Flutter](https://flutter.dev/docs/get-started/install) (versão 2.0 ou superior)
+- [Flutter](https://flutter.dev/docs/get-started/install) 
 - [Dart SDK](https://dart.dev/get-dart) (incluso no Flutter)
-- Conta GitHub para versionamento do código (opcional)
 
 ## Configuração do Ambiente
 
