@@ -1,16 +1,55 @@
-# myapp
+# Test2 - Gerenciador de Categorias e Produtos
 
-A new Flutter project.
+Este é um projeto Flutter que implementa um CRUD (Create, Read, Update, Delete) para gerenciar **Categorias** e **Produtos** com relacionamento usando o SQLite como banco de dados local.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Gerenciamento de Categorias**: Adicione, edite e exclua categorias.
+- **Gerenciamento de Produtos**: Cada produto é vinculado a uma categoria específica e contém informações de nome e preço. É possível adicionar, editar e excluir produtos, mantendo o relacionamento com a categoria.
 
-A few resources to get you started if this is your first Flutter project:
+## Interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A interface do aplicativo é intuitiva e permite fácil navegação entre as seções de **Categorias** e **Produtos**:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Página Inicial**: Apresenta uma lista de categorias, cada uma com seus produtos organizados abaixo.
+- **Adicionar ou Editar Categorias**: Inclui um formulário simplificado para entrada e atualização de categorias.
+- **Adicionar ou Editar Produtos**: Permite adicionar um novo produto com um nome e preço, além de associá-lo a uma categoria. 
+- **Design Limpo e Intuitivo**: Os ícones de adicionar (`+`), editar (ícone de lápis) e excluir (ícone de lixeira) facilitam a navegação e execução das operações CRUD para ambas as categorias e produtos.
+
+## Pré-requisitos
+
+Antes de começar, certifique-se de que possui as seguintes ferramentas instaladas:
+
+- [Flutter](https://flutter.dev/docs/get-started/install) (versão 2.0 ou superior)
+- [Dart SDK](https://dart.dev/get-dart) (incluso no Flutter)
+- Conta GitHub para versionamento do código (opcional)
+
+## Configuração do Ambiente
+
+1. **Clone o Repositório**
+
+   Clone este repositório em sua máquina:
+   ```bash
+   git clone https://github.com/Luann8/test2.git
+   cd test2
+
+```bash
+Instale as Dependências
+
+Use o comando abaixo para instalar as dependências do projeto:
+
+```
+```bash
+flutter pub get
+Inicie o Emulador ou Conecte um Dispositivo
+
+Certifique-se de que um dispositivo Android ou iOS esteja conectado e configurado ou que um emulador esteja em execução.
+```
+
+
+Execute o Projeto
+
+Para rodar o projeto, use o seguinte comando:
+```bash
+flutter run
+```
