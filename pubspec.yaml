@@ -1,7 +1,6 @@
 name: myapp
 description: "A new Flutter project."
-
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none' # Remova essa linha se for publicar o pacote
 
 version: 1.0.0+1
 
@@ -11,9 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.0.3  # Adicionando a dependência do provider
   cupertino_icons: ^1.0.8
-  sqflite: ^2.0.3+1 # Adicione esta linha
-  path: ^1.8.1 # Adicione esta linha
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
 
 dev_dependencies:
   flutter_test:
